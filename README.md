@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sara
 #### I am certified Python developer with some knowledge of web design.
-![I am certified Python developer with some knowledge of web design.
+
 
 I'm currently teaching group of kids basics of programming with python, and  go to Web development course about HTML, CSS and JavaScript
 
