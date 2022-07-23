@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Sara
-#### I am certified Python developer with some knowledge of web design.
+#### I am certified Python and Front-end developer.
 
 
-I'm currently teaching group of kids basics of programming with python, and  go to Web development course about HTML, CSS and JavaScript
+I'm currently teaching group of kids basics of programming with python
 
 Skills: / Python / HTML5 / CSS3 / Powershell / JavaScript / React
 
