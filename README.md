@@ -6,7 +6,6 @@ I'm currently teaching group of kids basics of programming with python
 
 Skills: / Python / HTML5 / CSS3 / Powershell / JavaScript / React
 
-- 🌱 I’m currently learning React
 - 📫 How to reach me: sarasaravevic@gmail.com 
 
 
