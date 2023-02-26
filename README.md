@@ -4,7 +4,7 @@
 
 I'm currently teaching group of kids basics of programming with python
 
-Skills: / Python / HTML5 / CSS3 / Powershell / JavaScript / React
+Skills: / Python / JavaScript / React / HTML5 / CSS3 / React Native
 
 - 📫 How to reach me: sarasaravevic@gmail.com 
 
